@@ -12,6 +12,7 @@ package cvicenigit;
 public class Clanek {
     private String nadpis;
     private String text;
+    //uzivatel
 
     public Clanek(String nadpis, String text) {
         this.nadpis = nadpis;
